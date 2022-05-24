@@ -30,4 +30,6 @@ design:
   #   padding: ["20px", "0", "20px", "0"]
 ---
 
-{{< gallery album="appScreenshots" >}}
+<!--- {{< gallery album="appScreenshots" >}}
+
+
